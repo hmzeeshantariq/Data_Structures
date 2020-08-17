@@ -7,5 +7,5 @@
 - Singly Linked List
 - Doubly Linked List
 
-###### [Binary Search Tree](./)
+###### [Binary Search Tree](https://github.com/hmzeeshantariq/Data_Structures)
 This implementation of Binary Search Tree (BST) is done in C++. The repository includes both the [Header](./BST.h) as well as [Implementation](./BST.cpp) files. The code is self-readable and easily comprehensilbe.
