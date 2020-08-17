@@ -15,3 +15,5 @@ This repository includes a generic implementation of Sinlgy linked list using te
 
 ###### [Doubly Linked List](https://github.com/hmzeeshantariq/Data_Structures)
 Here we have generic implementation of Doubly linked list using template in C++. The repository includes both the [Header](./doublyLinkedList.h) as well as [Implementation](./doublyLinkedList.cpp) files. The implementation is impeccable.
+
+***Just pull the repo & you're Good to go !***
